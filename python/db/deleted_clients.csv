@@ -1,0 +1,7 @@
+ID,service_type,first,last name,address,age,sex,illness,room_number,specialty,doctor,date,time,nights,service
+101,Consultation,Alice,Johnson,101 Pine St,35,Female,Fever,404,Cardiology,Dr. White,2023-12-12,16:00,4,ENT
+1818,Consultation,Aiden,Jackson,1818 Pine St,30,Male,Headache,2121,Neurology,Dr. Anderson,2023-12-29,11:00,2,Ultrasound
+123,Consultation,John,Doe,123 Main St,30,Male,Flu,101,Cardiology,Dr. Smith,2023-12-09,14:30,3,Childbirth
+2630,asda,asd,asd,asd,2,asda,ad,22,asd,asd,asd,asd,2,Childbirth
+606,Consultation,Christopher,Jones,606 Pine St,38,Male,Headache,909,Gastroenterology,Dr. Moore,2023-12-17,15:15,5,Childbirth
+123,Consultation,John,Doe,123 Main St,30,Male,Flu,101,General,Dr. Smith,2023-12-09,14:30,3,Childbirth

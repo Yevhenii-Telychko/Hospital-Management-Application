@@ -1,0 +1,21 @@
+# IDE
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# C / CMake build artifacts
+cmake-build-debug/
+cmake-build-release/
+*.o
+*.obj
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
